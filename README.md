@@ -1,1 +1,1 @@
-# TicTacToe famous Tic Tac Toe game
+The Tic Tac Toe game
